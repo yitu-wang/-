@@ -1,0 +1,4 @@
+使用说明：1.在本地使用cmd打开终端，将路径修改为NeteaseCloudMusicApi文件夹下的路径
+2.将端口设置为本地8080端口（windows环境下代码：set PORT=8080 && node app.js，Mac/Linux环境下代码： PORT=8080 node app.js， 将这段代码复制到控制台回车）
+3.打开vscode使用live server运行dist中html文件就可以了
+ 
