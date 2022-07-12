@@ -1,4 +1,7 @@
-使用说明：1.在本地使用cmd打开终端，将路径修改为NeteaseCloudMusicApi文件夹下的路径
+配置接口环境：1.使用git Bash执行$ git clone git@github.com:Binaryify/NeteaseCloudMusicApi.git 获得一个文件
+2.将文件用vscode打开执行$ npm install 
+
+配置好接口环境后使用说明：1.在本地使用cmd打开终端，将路径修改为NeteaseCloudMusicApi文件夹下的路径
 2.将端口设置为本地8080端口（windows环境下代码：set PORT=8080 && node app.js，Mac/Linux环境下代码： PORT=8080 node app.js， 将这段代码复制到控制台回车）
-3.打开vscode使用live server运行dist中html文件就可以了
+3.打开vscode使用live server运行dist中html文件就可以了，或者使用npm run server运行wymusic这个文件夹
  
